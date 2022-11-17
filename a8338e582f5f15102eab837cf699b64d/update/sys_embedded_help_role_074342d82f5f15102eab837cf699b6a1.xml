@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_938844_fikanow2.user" name="x_938844_fikanow2.user">474342d82f5f15102eab837cf699b69e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 09:30:24</sys_created_on>
+        <sys_id>074342d82f5f15102eab837cf699b6a1</sys_id>
+        <sys_name>474342d82f5f15102eab837cf699b69e</sys_name>
+        <sys_package display_value="FikaNow2" source="x_938844_fikanow2">a8338e582f5f15102eab837cf699b64d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FikaNow2">a8338e582f5f15102eab837cf699b64d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_074342d82f5f15102eab837cf699b6a1</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
