@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="FikaNow2">55b30ed82f5f15102eab837cf699b695</application>
+        <application display_value="FikaNow 2.0">55b30ed82f5f15102eab837cf699b695</application>
         <assessment/>
         <device_type/>
         <filter table="sc_req_item">sc_catalog=5562ca402fdfd1102eab837cf699b685^active=false^EQ<item display_table="sc_catalog" display_value="Fika Catalog" endquery="false" field="sc_catalog" goto="false" newquery="false" operator="=" or="false" value="5562ca402fdfd1102eab837cf699b685"/>
@@ -16,7 +16,7 @@
         <mobile_title>Closed</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>sc_req_item</name>
-        <order>5</order>
+        <order>6</order>
         <override_menu_roles>false</override_menu_roles>
         <query>active=false^EQ</query>
         <report/>
