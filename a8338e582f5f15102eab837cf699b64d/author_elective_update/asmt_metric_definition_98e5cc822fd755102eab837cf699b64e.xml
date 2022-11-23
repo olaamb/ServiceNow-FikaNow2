@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_definition">
+    <asmt_metric_definition action="DELETE">
+        <display>Choice 3</display>
+        <metric display_value="Fika Satisfaction">8ce5cc822fd755102eab837cf699b63e</metric>
+        <normalization_input>0</normalization_input>
+        <order>2</order>
+        <selected_image/>
+        <sys_class_name>asmt_metric_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-22 10:51:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>98e5cc822fd755102eab837cf699b64e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Choice 3</sys_name>
+        <sys_package display_value="FikaNow2" source="x_938844_fikanow2">a8338e582f5f15102eab837cf699b64d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FikaNow2">a8338e582f5f15102eab837cf699b64d</sys_scope>
+        <sys_update_name>asmt_metric_definition_98e5cc822fd755102eab837cf699b64e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-22 10:51:49</sys_updated_on>
+        <unselected_image/>
+        <value>3</value>
+    </asmt_metric_definition>
+    <sys_translated_text action="DELETE" query="documentkey=98e5cc822fd755102eab837cf699b64e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FikaNow2">a8338e582f5f15102eab837cf699b64d</application>
+        <file_path/>
+        <instance_id>eb94dd42db5f00988aea21c405961938</instance_id>
+        <instance_name>dev102027</instance_name>
+        <name>asmt_metric_definition_98e5cc822fd755102eab837cf699b64e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_definition"><asmt_metric_definition action="INSERT_OR_UPDATE"><display>Choice 3</display><metric display_value="Fika Satisfaction">8ce5cc822fd755102eab837cf699b63e</metric><normalization_input>0</normalization_input><order>2</order><selected_image/><sys_class_name>asmt_metric_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-22 10:51:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>98e5cc822fd755102eab837cf699b64e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Choice 3</sys_name><sys_package display_value="FikaNow2" source="x_938844_fikanow2">a8338e582f5f15102eab837cf699b64d</sys_package><sys_policy/><sys_scope display_value="FikaNow2">a8338e582f5f15102eab837cf699b64d</sys_scope><sys_update_name>asmt_metric_definition_98e5cc822fd755102eab837cf699b64e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-22 10:51:49</sys_updated_on><unselected_image/><value>3</value></asmt_metric_definition><sys_translated_text action="delete_multiple" query="documentkey=98e5cc822fd755102eab837cf699b64e"/></record_update>]]></payload>
+        <payload_hash>24259603</payload_hash>
+        <record_name>Choice 3</record_name>
+        <reverted_from/>
+        <source>3b804c0a2f9755102eab837cf699b63e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-22 10:51:49</sys_created_on>
+        <sys_id>18e5cc822fd755102eab837cf699b653</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1849ef72ab70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-22 10:51:49</sys_updated_on>
+        <type>Assessment Metric Definition</type>
+        <update_guid>50e5cc829dd755106e34892749290653</update_guid>
+        <update_guid_history>50e5cc829dd755106e34892749290653:24259603</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Choice 3">d94704062fd755102eab837cf699b688</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-22 10:57:53</sys_created_on>
+        <sys_db_object display_value="" name="asmt_metric_definition">asmt_metric_definition</sys_db_object>
+        <sys_id>08ec0da5b897405c8befd16657473904</sys_id>
+        <sys_metadata>98e5cc822fd755102eab837cf699b64e</sys_metadata>
+        <sys_name>Choice 3</sys_name>
+        <sys_package display_value="FikaNow2" source="x_938844_fikanow2">a8338e582f5f15102eab837cf699b64d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FikaNow2">a8338e582f5f15102eab837cf699b64d</sys_scope>
+        <sys_scope_delete display_value="">36b6ff08d51b499896931324e811d0e1</sys_scope_delete>
+        <sys_update_name>asmt_metric_definition_98e5cc822fd755102eab837cf699b64e</sys_update_name>
+        <sys_update_version display_value="asmt_metric_definition_98e5cc822fd755102eab837cf699b64e">18e5cc822fd755102eab837cf699b653</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

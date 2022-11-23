@@ -17,7 +17,7 @@
         <mobile_title>Open - Unassigned</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>sc_req_item</name>
-        <order>5</order>
+        <order>6</order>
         <override_menu_roles>false</override_menu_roles>
         <query>active=true^assigned_toISEMPTY^EQ</query>
         <report/>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_condition">
+    <asmt_condition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assessment display_value="Fika Satisfaction">84e5c4ce2f9755102eab837cf699b628</assessment>
+        <assessment_record/>
+        <assessment_record_field/>
+        <business_rule display_value="Auto assessment business rule">855848062fd755102eab837cf699b644</business_rule>
+        <condition table="sc_req_item">state=3^requested_for=62826bf03710200044e0bfc8bcbe5df1^EQ<item display_value="Closed Complete" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="3"/>
+            <item display_table="sys_user" display_value="Abel Tuter" endquery="false" field="requested_for" goto="false" newquery="false" operator="=" or="false" value="62826bf03710200044e0bfc8bcbe5df1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <duration>1970-01-31 00:00:00</duration>
+        <percent_random>100</percent_random>
+        <related_field_1/>
+        <related_field_2/>
+        <related_field_3/>
+        <related_field_4/>
+        <sys_class_name>asmt_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-22 11:02:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>17f700462fd755102eab837cf699b600</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="FikaNow2" source="x_938844_fikanow2">a8338e582f5f15102eab837cf699b64d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FikaNow2">a8338e582f5f15102eab837cf699b64d</sys_scope>
+        <sys_update_name>asmt_condition_17f700462fd755102eab837cf699b600</sys_update_name>
+        <table>sc_req_item</table>
+        <trigger_random>true</trigger_random>
+        <user_field>requested_for</user_field>
+    </asmt_condition>
+</record_update>

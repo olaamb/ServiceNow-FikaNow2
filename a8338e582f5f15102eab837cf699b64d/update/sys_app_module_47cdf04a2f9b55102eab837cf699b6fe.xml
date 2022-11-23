@@ -4,36 +4,34 @@
         <application display_value="FikaNow 2.0">55b30ed82f5f15102eab837cf699b695</application>
         <assessment/>
         <device_type/>
-        <filter table="sc_req_item">sc_catalog=5562ca402fdfd1102eab837cf699b685^EQ<item display_table="sc_catalog" display_value="Fika Catalog" endquery="false" field="sc_catalog" goto="false" newquery="false" operator="=" or="false" value="5562ca402fdfd1102eab837cf699b685"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter>
+        <filter/>
         <hint/>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>All</mobile_title>
+        <mobile_title>Fika Tasks</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>sc_req_item</name>
-        <order>8</order>
+        <name>sc_task</name>
+        <order>2</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_938844_fikanow.u_fika_admin,x_938844_fikanow.u_fika_fulfiller,x_938844_fikanow.u_fika_approver</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-11-17 09:32:13</sys_created_on>
+        <sys_created_on>2022-11-22 15:05:12</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>2db30ed82f5f15102eab837cf699b6b0</sys_id>
-        <sys_name>All</sys_name>
+        <sys_id>47cdf04a2f9b55102eab837cf699b6fe</sys_id>
+        <sys_name>Fika Tasks</sys_name>
         <sys_overrides/>
         <sys_package display_value="FikaNow2" source="x_938844_fikanow2">a8338e582f5f15102eab837cf699b64d</sys_package>
         <sys_policy/>
         <sys_scope display_value="FikaNow2">a8338e582f5f15102eab837cf699b64d</sys_scope>
-        <sys_update_name>sys_app_module_2db30ed82f5f15102eab837cf699b6b0</sys_update_name>
+        <sys_update_name>sys_app_module_47cdf04a2f9b55102eab837cf699b6fe</sys_update_name>
         <timeline_page/>
-        <title>All</title>
+        <title>Fika Tasks</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

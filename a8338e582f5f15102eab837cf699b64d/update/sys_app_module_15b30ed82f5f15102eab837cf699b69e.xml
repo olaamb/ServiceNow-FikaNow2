@@ -16,7 +16,7 @@
         <mobile_title>Open</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>sc_req_item</name>
-        <order>4</order>
+        <order>5</order>
         <override_menu_roles>false</override_menu_roles>
         <query>active=true^EQ</query>
         <report/>
